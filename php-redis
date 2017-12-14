@@ -1,0 +1,24 @@
+--2017-11-06 00:34:00--  https://github.com/nicolasff/phpredis/zipball/master
+Resolving github.com (github.com)... 192.30.255.112, 192.30.255.113
+Connecting to github.com (github.com)|192.30.255.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://github.com/phpredis/phpredis/zipball/master [following]
+--2017-11-06 00:34:02--  https://github.com/phpredis/phpredis/zipball/master
+Reusing existing connection to github.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/phpredis/phpredis/legacy.zip/master [following]
+--2017-11-06 00:34:02--  https://codeload.github.com/phpredis/phpredis/legacy.zip/master
+Resolving codeload.github.com (codeload.github.com)... 192.30.255.121, 192.30.255.120
+Connecting to codeload.github.com (codeload.github.com)|192.30.255.121|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/zip]
+Saving to: ‘master’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  203K
+   100K .......... .......... .......... .......... .......... 9.03M
+   150K .......... .......... .......... .......... .......... 14.8M
+   200K .......... .........                                   81.5K=1.0s
+
+2017-11-06 00:34:05 (226 KB/s) - ‘master’ saved [224711]
+
